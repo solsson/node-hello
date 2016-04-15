@@ -4,7 +4,7 @@
   "description": "Hello world project for https://hub.docker.com/r/solsson/node/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index"
   },
   "repository": {
     "type": "git",
